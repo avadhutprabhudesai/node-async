@@ -1,4 +1,6 @@
-require('./timers');
+// require('./timers');
+require('./event-loop');
+
 /**
  * Timers
  * Event loop phases and order of execution
